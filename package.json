@@ -1,0 +1,28 @@
+{
+  "name": "drbd",
+  "version": "0.0.1",
+  "description": "DRBD Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "no tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/djoulz22/drbd.git"
+  },
+  "keywords": [
+    "drbd"
+  ],
+  "author": {
+  	"name": "Julien CHENAVAS",
+	"mail": "jchenavas@gmail.com"
+	},
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/djoulz22/drbd/issues"
+  },
+  "dependencies": {
+   "underscore": "*",
+   "json-file-db" : "*"
+   }
+}
