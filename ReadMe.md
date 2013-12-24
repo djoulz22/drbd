@@ -1,6 +1,6 @@
 # DRBD (http://www.drbd.org/) 
 
-This is a module to connect, load and use zipabox.
+Getting drbd proc to JSON.
 
 ## License
 
