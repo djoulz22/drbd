@@ -49,3 +49,4 @@ drbd.events.OnAfterOpen = function(){
 
 drbd.Open();
 ```
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/djoulz22/drbd/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
