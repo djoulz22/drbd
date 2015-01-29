@@ -1,6 +1,6 @@
 {
   "name": "drbd",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "DRBD Interface",
   "main": "index.js",
   "scripts": {

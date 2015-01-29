@@ -2,6 +2,10 @@
 
 This is a module to connect, load and use DRBD.
 
+[![NPM](https://nodei.co/npm/drbd.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/drbd/)
+
+[![NPM](https://nodei.co/npm-dl/drbd.png)](https://nodei.co/npm/drbd/)
+
 ## License
 
 ```
